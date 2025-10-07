@@ -1,4 +1,4 @@
-## Notes on Angular & Angular Material UI
+# Notes on Angular & Angular Material UI
 
 Notes on diverse Angular/Material tips & tricks, optimization
 

@@ -1,6 +1,5 @@
-## Cypress Best Practices
-
-### Don't use cy.wait(X ms)
+# Cypress Best Practices
+## Don't use cy.wait(X ms)
 
 Cypress is providing us with a cy.wait(x) method, that will effectively, wait x ms before going on the next assessment. However it is often misused as a replacement to waiting for an HTTP Request to complete or an element to render. Cypress documentation evens mention it as an anti-pattern. 
 
