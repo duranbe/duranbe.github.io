@@ -17,7 +17,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/duranbe' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/beno%C3%AEt-durand/'}
     ]
   }
 })
